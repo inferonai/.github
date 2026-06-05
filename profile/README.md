@@ -1,8 +1,6 @@
 # 🔥 Inferon
 
-**Inferon** is an AI-powered platform for creators and developers to generate stunning content across various formats.
-
-> Currently in private beta. Join the waitlist at [Inferon - Early Access](https://inferon.ai/early-access).
+**Inferon** is a multimodal AI platform for building, generating, and scaling intelligent workflows and content across text, image, audio, video, and data. Access powerful AI capabilities through a unified infrastructure designed for production.
 
 ---
 
@@ -15,13 +13,6 @@
 ## 🌐 Live Links
 
 - Website: [https://inferon.ai](https://inferon.ai)
-- Request Beta Access: [https://inferon.ai/early-access](https://inferon.ai/early-access)
-
----
-
-## 🛠️ Tech
-
-Inferon uses modern AI tooling and cloud infrastructure. More details coming soon.
 
 ---
 
